@@ -115,7 +115,7 @@ export default class SearchPage extends Component<{}> {
             <Text style={styles.buttonText}> Go </Text>
           </TouchableOpacity>
         </View>
-        <Image source={require('./Resources/house.png')} style={styles.image} />
+        <Image source={require('../Resources/house.png')} style={styles.image} />
         { spinner }
         <Text style={styles.description}>{this.state.message}</Text>
       </View>
