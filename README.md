@@ -2,6 +2,6 @@
 --------
 ## My first React Native App
 
-<img src="./Resources/App1.png">
+![App Image 1](./Resources/app1.png)
 
-<img src="./Resources/App2.png">
+![App Image 2](./Resources/app2.png)
